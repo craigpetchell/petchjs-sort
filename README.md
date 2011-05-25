@@ -23,3 +23,5 @@ Sorting over a column contain a colspan with treat the values of 2nd, 3rd, etc c
 Sorting with a row span will keep the rowspan'd rows together and they will not be sorted. Data for a particular cell when doing the sort will be <row1.cell + \n + row2.cell ...>.
 
 TableSort depends on JQuery, and the awesome JQuery Column cell selector by Bram Stein.
+
+(c) 2011 Craig Petchell
